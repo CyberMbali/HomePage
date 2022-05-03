@@ -19,8 +19,8 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>👨‍🎓 Qualifications:</h2>
-<b> Diploma in Information Technology (NQF 6) </b>
--<b> Diploma in Ethical Hacking </b>
+ <b>Diploma in Information Technology (NQF 6) </b>
+<b><br> Diploma in Ethical Hacking </br><b>
 
 <h2> 🤳 Connect with me:</h2>
 
